@@ -38,7 +38,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.MainClass</mainClass>
+                            <mainClass>com.jerry.auto.deploy.AutoDeployApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
